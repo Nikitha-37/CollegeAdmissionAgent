@@ -30,5 +30,3 @@ Main capabilities include:
   - Suggest a college for B.E Mechanical with cutoff below 170
 
 
-## 📂 Folder Structure
-
